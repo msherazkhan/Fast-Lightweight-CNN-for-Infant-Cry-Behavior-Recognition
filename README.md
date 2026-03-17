@@ -8,7 +8,6 @@ Convolutional Neural Network (CNN) model to accurately recognize infant cries ba
 ## 📌 Table of Contents
 - [About](#Abstract)
 - [Features](#Methodology)
-- [Demo](#Conclusion)
 - [License](#Authors)
 - [Contact](#contact)
 
